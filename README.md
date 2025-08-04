@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @SheikhSaad05
-💼 Data Science | Data Engineering | Cloud Computing
-🌎 Proficient in Python, Spark, AWS, SQL, React.js, Terraform
+About Me
+- 👋 Hi, I’m Muhammad Saad
+- 💼 Data Science | Machine Learning | AI
+- 🌎 Proficient in Python, PySparkm SQL,
 - 📫 How to reach me ...
 
 <!---
